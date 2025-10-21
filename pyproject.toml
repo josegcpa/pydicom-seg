@@ -6,7 +6,6 @@ authors = ["Sven Koitka <sven.koitka@uk-essen.de>"]
 homepage = "https://github.com/razorx89/pydicom-seg"
 readme = "README.md"
 license = "MIT"
-exclude = ["pydicom_seg/externals"]
 include = [
     "pydicom_seg/externals/dcmqi/LICENSE.txt",
     "pydicom_seg/externals/dcmqi/doc/schemas/seg-schema.json",
